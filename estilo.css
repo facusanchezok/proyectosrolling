@@ -7,3 +7,15 @@ body{
 header nav img{
     height: 30px;
 }
+
+/* footer */
+#footer{
+    background-color:rgb(0, 0, 0) ;
+    min-height: 5rem;
+    padding: 2rem;
+    text-align: center;
+}
+
+#footer a{
+    color: white;
+}
